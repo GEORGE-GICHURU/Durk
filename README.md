@@ -1,4 +1,4 @@
-# Habari.. Chap Chap
+# flashnews
 
 ## Built By [George Gichuru]()
 
