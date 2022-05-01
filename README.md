@@ -20,7 +20,7 @@ As a user I would like to:
 ## Specifications
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
-| Display news sources | **On page load** | List of various news sources is displayed in a list |
+| Display news sources | **N/A** | List of various news sources is displayed in a list |
 | Display tabs with news by category | **On Tab link click** | Clickable links to open news based on category |
 | Display articles from a news source | **Click a news source** | Redirected to a page with articles from the source |
 | Display the preview of an article | **On page load** | Each article displays an image,description and publication date |
