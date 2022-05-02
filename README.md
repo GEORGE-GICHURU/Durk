@@ -32,11 +32,6 @@ As a user I would like to:
 * pip
 * virtualenv
 
-### Cloning
-* In your terminal:
-
-        $ git clone
-        $ cd NewsPI
 
 ## Running the Application
 * Creating the virtual environment
